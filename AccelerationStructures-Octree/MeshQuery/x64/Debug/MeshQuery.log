@@ -1,0 +1,14 @@
+﻿  main.cpp
+g:\personalprojects\accelerationstructures\meshquery\utility.h(84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+g:\personalprojects\accelerationstructures\meshquery\utility.h(85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\personalprojects\accelerationstructures\meshquery\utility.h(88): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\personalprojects\accelerationstructures\meshquery\utility.h(89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MeshQuery.vcxproj -> G:\PersonalProjects\AccelerationStructures\x64\Debug\MeshQuery.exe

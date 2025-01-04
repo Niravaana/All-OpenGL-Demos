@@ -1,0 +1,9 @@
+*.VC
+*.suo
+*.ipch
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.tlog
+/.vs/*
