@@ -1,5 +1,7 @@
 # All-OpenGL-Demos
-This is collection of all my OpenCL samples and demos
+This is collection of all my OpenGL/OpenCL samples and demos
+
+You can [watch all videos here](https://www.youtube.com/@paritosh72/videos)
 
 1. **Acceleration Structure - Octree**
 
