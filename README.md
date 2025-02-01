@@ -35,5 +35,9 @@ You can [watch all videos here](https://www.youtube.com/@paritosh72/videos)
 
    Implementation of separable edge detection filter in OpenGL compute shader. [Blog explaining image filter separability](https://pixelclear.github.io/technical/post/2017/10/29/Understanding-Image-Filter-Seperability.html)
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yVJW5H0Tk90/0.jpg)](https://www.youtube.com/watch?v=yVJW5H0Tk90) 
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yVJW5H0Tk90/0.jpg)](https://www.youtube.com/watch?v=yVJW5H0Tk90)
+
+7. Mini Engine
+
+   Implementation of mini engine showcasing Bump Mapping, Model Loading, Camera, Lighting. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y6pST97CjXo/0.jpg)](https://www.youtube.com/watch?v=y6pST97CjXo)
    
